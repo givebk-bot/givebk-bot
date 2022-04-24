@@ -7,15 +7,14 @@ _What you can do:_
 - You can send money to any github @username account.
 - You can receive money on your givebk wallet.
 
-_Which are the available commands:_
-
-- !help
-- !give @github-username U$ 0.00
+---
 
 ![Animation](https://user-images.githubusercontent.com/97711978/164953144-b458ff34-482c-4db8-82af-685ae50a569b.gif)
 
-### Frequently Asked Questions (FAQ)
 ---
+
+### Frequently Asked Questions (FAQ)
+
 <details>
   <summary>Q: How can I donate through Github?</summary>
   <br />
