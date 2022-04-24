@@ -1,4 +1,4 @@
-### Send money, donations and payments through github comments. 
+### Send and receive money donations through github comments. 
 
 👋 Hey! I'am givebk-bot, the *Official Bot** of [$] givebk. Ready to show support to OSS commnunity? ❤️
 
