@@ -25,7 +25,7 @@ _What you can do:_
   <br />
 A: The first step is to make sure @givebk-bot is a participant in the issue or pull request that you want to mention him.<br /><br />
 
-  1 - request the bot join the issue/pr on https://givebk.io/cockpit/invite-bot.
+  1 - request the bot join the issue/pr on https://givebk.io/cockpit/invite-bot.<br />
   2 - mention <b>@givebk-bot</b> with <b>!give</b> command;<br />
   3 - mention <b>@github-username</b> to who you will donate;<br />
 4 - and finally, add the amount.
