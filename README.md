@@ -12,6 +12,8 @@ _Which are the available commands:_
 - !help
 - !give @github-username U$ 0.00
 
+![Animation](https://user-images.githubusercontent.com/97711978/164953144-b458ff34-482c-4db8-82af-685ae50a569b.gif)
+
 ### Frequently Asked Questions (FAQ)
 ---
 <details>
@@ -27,4 +29,5 @@ and finally, add the amount.
 
 Remember: You must have a positive balance on your account or deposit first.
 </details>
+
 
