@@ -1,6 +1,8 @@
 ### Send and receive money donations through github comments. 
 
-👋 Hey! I'am the **Official Bot** of [@givebk](https://github.com/givebk). Ready to show support to OSS commnunity? ❤️
+👋 Hey! I'am the **Official Bot** of [@givebk](https://github.com/givebk). 
+
+Ready to send and receive money donations through github comments? ❤️
 
 _What you can do:_
 
@@ -9,7 +11,10 @@ _What you can do:_
 
 ---
 
-![Animation](https://user-images.githubusercontent.com/97711978/164953144-b458ff34-482c-4db8-82af-685ae50a569b.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/97711978/164953144-b458ff34-482c-4db8-82af-685ae50a569b.gif"
+  alt="Video demo of how to send and receive money donations through github comments.">
+</p>
 
 ---
 
